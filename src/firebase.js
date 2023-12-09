@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCXyJAggdftc1y1gcUu-SWlgwe-TaThP_A",
-  authDomain: "instagram-clone-6fa4d.firebaseapp.com",
-  projectId: "instagram-clone-6fa4d",
-  storageBucket: "instagram-clone-6fa4d.appspot.com",
-  messagingSenderId: "717508443850",
-  appId: "1:717508443850:web:f9eee947387c9d1f82fe33",
+  apiKey: "AIzaSyBWhvDisMTH1ZEVqW_6gXUyF60Fsa9G-SQ",
+  authDomain: "instagram-clone-f7f62.firebaseapp.com",
+  projectId: "instagram-clone-f7f62",
+  storageBucket: "instagram-clone-f7f62.appspot.com",
+  messagingSenderId: "881088344312",
+  appId: "1:881088344312:web:6331a2a9e2919262114b0d",
 };
 
 // Initialize Firebase
